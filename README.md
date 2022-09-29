@@ -1,8 +1,8 @@
-# Finsweet Developer Starter
+# Repositorio creado para Madezza
 
-A starter template for both Client & Power projects.
+Este es un repositorio creado para agregar y controlar funcionalidades adicionales para la página web de Madezza hecha en Webflow.
 
-Before starting to work with this template, please take some time to read through the documentation.
+Ha sido creado usando como base el template de Finsweet para webflow. Cualquier duda sobre su uso, formato de compilación, etc. Ir a la documentación respectiva: (https://github.com/finsweet/developer-starter).
 
 ## Reference
 
