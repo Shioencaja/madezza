@@ -4,12 +4,18 @@ import 'swiper/css/navigation';
 
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const swiper = new Swiper('.swiper', {
+  slidesPerView: 1,
   navigation: {
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
   },
   speed: 400,
-  spaceBetween: 100,
+  spaceBetween: 10,
+  breakpoints: {
+    1024: {
+      slidesPerView: 3,
+    },
+  },
 });
 const controles = document.querySelector('.swiper').swiper;
 
