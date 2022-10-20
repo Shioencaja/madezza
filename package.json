@@ -1,5 +1,5 @@
 {
-  "name": "@chinicooper/madezza",
+  "name": "@shioencaja/madezza",
   "version": "1.0.0",
   "description": "Respositorio para funcionalidades de la página Madezza",
   "homepage": "",
@@ -8,7 +8,7 @@
   "author": "Gabriel Ballón",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shioencaja/madezza"
+    "url": "git+https://github.com/finsweet/developer-starter.git"
   },
   "bugs": {
     "url": "https://github.com/finsweet/developer-starter/issues"
