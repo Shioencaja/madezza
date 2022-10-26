@@ -1,9 +1,9 @@
 {
   "name": "@shioencaja/madezza",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Respositorio para funcionalidades de la página Madezza",
   "homepage": "https://github.com/finsweet/developer-starter#readme",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [],
   "author": "Gabriel Ballón",
   "repository": {
